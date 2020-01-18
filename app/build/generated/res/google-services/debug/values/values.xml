@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1065183049899-0ssri539du18n2r4i1v7dcpemss0tdaj.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://follow-favorites.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1065183049899</string>
+    <string name="google_api_key" translatable="false">AIzaSyCs7spRLmAOrhM7Ymaxlt6tBk0dtHy_-uQ</string>
+    <string name="google_app_id" translatable="false">1:1065183049899:android:a89b0a46d4c41892749fee</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCs7spRLmAOrhM7Ymaxlt6tBk0dtHy_-uQ</string>
+    <string name="google_storage_bucket" translatable="false">follow-favorites.appspot.com</string>
+    <string name="project_id" translatable="false">follow-favorites</string>
+</resources>

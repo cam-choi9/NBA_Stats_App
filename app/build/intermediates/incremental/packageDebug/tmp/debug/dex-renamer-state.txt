@@ -1,0 +1,4 @@
+#Sat Dec 14 00:52:33 EST 2019
+base.0=/Users/jaeseokchoi/Desktop/CSCI 4237/project-2-bring-your-own-idea-followfavorites/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

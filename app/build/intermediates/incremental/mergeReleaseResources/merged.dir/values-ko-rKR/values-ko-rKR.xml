@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add">좋아하는 선수를 추가하세요</string>
+    <string name="add_players">선수 추가</string>
+    <string name="app_name">project2</string>
+    <string name="assists">어시스트</string>
+    <string name="blocks">블락</string>
+    <string name="first_name">이름 : </string>
+    <string name="language">언어 선택</string>
+    <string name="last_name">성 : </string>
+    <string name="login">로그인</string>
+    <string name="or">혹은</string>
+    <string name="password">비밀번호</string>
+    <string name="players_activity">너의 좋아하는 선수</string>
+    <string name="points">점수</string>
+    <string name="rebounds">리바운드</string>
+    <string name="save_password">비밀번호 기억</string>
+    <string name="save_username">아이디 기억</string>
+    <string name="signup">사인업</string>
+    <string name="steals">스틸</string>
+    <string name="submit">추가</string>
+    <string name="title_activity_players">좋아하는 선수</string>
+    <string name="username">아이디</string>
+</resources>
